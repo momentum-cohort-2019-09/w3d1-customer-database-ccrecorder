@@ -44,7 +44,7 @@
 }
 
 body {
-	background: lightgrey;
+	background: no-repeat center / cover url(bernard-hermant-X-Bu9X6gok0-unsplash.jpg);
 }
 
 .nameInCard {
